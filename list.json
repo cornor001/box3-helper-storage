@@ -1,0 +1,18 @@
+[
+    {
+        "title": "HelloWorld 对话框",
+        "desc": "一个简单的 HelloWorld, 只是显示对话框",
+        "filename": "demo.js",
+        "type": "console",
+        "force": false,
+        "match": "^https?://box3.codemao.cn/e/.*$"
+    },
+    {
+        "title": "AlanBest 地图通用组件",
+        "desc": "通用于AlanBest的所有地图",
+        "filename": "alan_best_addons.js",
+        "type": "addons",
+        "force": true,
+        "match": "^https?://box3.codemao.cn/e/.*$"
+    }
+]
