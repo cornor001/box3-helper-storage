@@ -5,7 +5,7 @@
         "filename": "demo.js",
         "type": "console",
         "force": false,
-        "match": "^https?://box3.codemao.cn/e/.*$"
+        "match": "^/e/.*$"
     },
     {
         "title": "AlanBest 地图通用组件",
@@ -13,6 +13,6 @@
         "filename": "alan_best_addons.js",
         "type": "addons",
         "force": true,
-        "match": "^https?://box3.codemao.cn/e/.*$"
+        "match": "^/e/.*$"
     }
 ]
